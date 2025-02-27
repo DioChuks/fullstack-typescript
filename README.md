@@ -1,6 +1,6 @@
 # FAST FullStack React with TypeScript starter kit.
 
-<img src="https://github.com/gilamran/fullstack-typescript/raw/master/assets/images/logo.png" width="150">
+<img src="https://github.com/DioChuks/fullstack-typescript/raw/master/assets/images/logo.png" width="150">
 
 ---
 
@@ -18,7 +18,7 @@ yarn clean-up-example-code
 clone this repository into your own project folder. and start working
 
 ```bash
-git clone https://github.com/gilamran/fullstack-typescript.git <MyProjectName>
+git clone https://github.com/DioChuks/fullstack-typescript.git <MyProjectName>
 cd <MyProjectName>
 yarn
 yarn dev
@@ -36,12 +36,12 @@ git push -u origin master
 
 - **Simple** to jump into, **Fast** because it is simple.
 - Separate `tsconfig.json` for client and server.
-- Client and server can share code (And types). For example: [IUserDTO.d.ts](https://github.com/gilamran/fullstack-typescript/blob/master/src/shared/IUserDTO.d.ts)
+- Client and server can share code (And types). For example: [IUserDTO.d.ts](https://github.com/DioChuks/fullstack-typescript/blob/master/src/shared/IUserDTO.d.ts)
 - The client is bundled using [Vite](https://github.com/vitejs/vite) because it goes to the browser.
 - The server is emitted by [TypeScript](https://github.com/Microsoft/TypeScript) because node now supports es6.
 
 <p align="center"> 
-<img src="https://github.com/gilamran/fullstack-typescript/raw/master/assets/images/flow.png" width="500">
+<img src="https://github.com/DioChuks/fullstack-typescript/raw/master/assets/images/flow.png" width="500">
 </p>
 
 ---
